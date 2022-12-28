@@ -1,4 +1,5 @@
 {
-  "okta_super_admin":"fake_token"
-  "okta_super_admin":"SSWS 00_5AABBIUdgqChBzQSAPo6acpGG5GD4gQ2fp1mO74"
+  "okta_super_admin":"fake_token",
+  "okta_super_admin":"SSWS 00_5AABBIUdgqChBzQSAPo6acpGG5GD4gQ2fp1mO74",
+  "organization_url":"https://dev-7142671.okta.com/"
 }
